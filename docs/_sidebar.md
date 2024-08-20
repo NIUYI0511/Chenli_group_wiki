@@ -1,6 +1,6 @@
-* [# Home](/)
+* # [Home](/)
 * ## Link to the Home Page
-* ## Academic##
+* ## Academic
   * [List of Conferences & Journals](Academic/list_of_conf_jnl.md)
   * [Quick Start](Academic/quick_start.md)
   * [Paper Recommendation](Academic/paper_rec.md)
