@@ -15,7 +15,7 @@
 
 > ## 🎓**Academic**
 
-- [**List of Conferences & Journals**](Academic/list_of_conf_jnl.md)
+- [**List of Conferences & Journals**](Academic/List of conferences and journal.md)
 - [**Quick Start**](Academic/quick_start.md)
 - [**Paper recommendation**](Academic/paper_rec.md)
 - [**Shared datasets**](Academic/shared_datasets.md)
