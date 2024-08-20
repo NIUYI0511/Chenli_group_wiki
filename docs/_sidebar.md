@@ -14,7 +14,8 @@
   * [Beginner’s Guide](Group_Issue_Management/Beginner_Guide.md)
   * Tutorials
     * [Equipment Registration](Group_Issue_Management/Equipment_Registration.md)
-    * [Server Usage](Group_Issue_Management/Server_Usage.md)
+    * [Server Usage](Group_Issue_Management/服务器管理.md)
+    * [Dental Hospital Server Remote Login](Group_Issue_Management/口腔医院服务器远程登陆.md)
     * [Wiki Maintenance Tutorial](Group_Issue_Management/Wiki_Maintenance_Tutorial.md)
 * Projects
   * [Ningxia Huang Director's Project](Projects/Ningxia_Huang_Director_Project.md)
