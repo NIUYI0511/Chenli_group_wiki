@@ -13,7 +13,7 @@
 
 ---
 
-> ## 🎓**Academic**
+> ## 🎓**Academic**(Academic.md)
 
 - **List of Conferences & Journals**
 - **Quick Start**
