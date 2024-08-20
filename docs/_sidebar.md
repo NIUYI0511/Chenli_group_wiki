@@ -1,21 +1,21 @@
 * [Home](/)
 * Link to the Home Page
 * Academic
-  * [List of Conferences & Journals](start/list_of_conf_jnl.md)
-  * [Quick Start](start/quick_start.md)
-  * [Paper Recommendation](start/paper_rec.md)
-  * [Shared Datesets](start/shared_datasets.md)
+  * [List of Conferences & Journals](Academic/list_of_conf_jnl.md)
+  * [Quick Start](Academic/quick_start.md)
+  * [Paper Recommendation](Academic/paper_rec.md)
+  * [Shared Datesets](Academic/shared_datasets.md)
 * Group Issue Management
   * Financial Reimbursement
-    * [Instructions for Submitting Papers](Instructions_for_Submitting_Papers.md)
-    * [Participation in International Conferences](Participation_in_International_Conferences.md)
-    * [Participation in National Meetings](Participation_in_National_Meetings.md)
-  * [Published Conferences & Journals Articles](Published_Conferences_Journals_Articles.md)
-  * [Beginner’s Guide](Beginner_Guide.md)
+    * [Instructions for Submitting Papers](Group_Issue_Management/Instructions_for_Submitting_Papers.md)
+    * [Participation in International Conferences](Group_Issue_Management/Participation_in_International_Conferences.md)
+    * [Participation in National Meetings](Group_Issue_Management/Participation_in_National_Meetings.md)
+  * [Published Conferences & Journals Articles](Group_Issue_Management/Published_Conferences_Journals_Articles.md)
+  * [Beginner’s Guide](Group_Issue_Management/Beginner_Guide.md)
   * Tutorials
-    * [Equipment Registration](Equipment_Registration.md)
-    * [Server Usage](Server_Usage.md)
-    * [Wiki Maintenance Tutorial](Wiki_Maintenance_Tutorial.md)
-  * Projects
-    * [Ningxia Huang Director's Project](Ningxia_Huang_Director_Project.md)
-    * [Pathology Image Analysis Project](Pathology_Image_Analysis_Project.md)
+    * [Equipment Registration](Group_Issue_Management/Equipment_Registration.md)
+    * [Server Usage](Group_Issue_Management/Server_Usage.md)
+    * [Wiki Maintenance Tutorial](Group_Issue_Management/Wiki_Maintenance_Tutorial.md)
+* Projects
+  * [Ningxia Huang Director's Project](Projects/Ningxia_Huang_Director_Project.md)
+  * [Pathology Image Analysis Project](Projects/Pathology_Image_Analysis_Project.md)
