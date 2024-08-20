@@ -1,5 +1,5 @@
 * [Home](/)
-* [Link to the Home Page]
+* Link to the Home Page
 * Academic
   * [List of Conferences & Journals](start/list_of_conf_jnl.md)
   * [Quick Start](start/quick_start.md)
