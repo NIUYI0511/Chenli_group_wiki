@@ -8,9 +8,9 @@
 
 CCF List
 
-- 2015: ([PDF](Academic/pdf/CCF推荐国际学术会议和期刊目录（下载）.pdf)): CCF推荐国际学术会议和期刊目录（下载）2015.pdf
-- 2019: ([PDF](Academic/pdf/中国计算机学会推荐国际学术会议和期刊目录-2019.pdf))中国计算机学会推荐国际学术会议和期刊目录-2019.pdf
-- 2022: ([PDF](Academic/pdf/中国计算机学会推荐国际学术会议和期刊目录-2022.pdf))中国计算机学会推荐国际学术会议和期刊目录-2022.pdf
+- 2015: ([PDF](pdf/CCF推荐国际学术会议和期刊目录（下载）.pdf)): CCF推荐国际学术会议和期刊目录（下载）2015.pdf
+- 2019: ([PDF](pdf/中国计算机学会推荐国际学术会议和期刊目录-2019.pdf))中国计算机学会推荐国际学术会议和期刊目录-2019.pdf
+- 2022: ([PDF](pdf/中国计算机学会推荐国际学术会议和期刊目录-2022.pdf))中国计算机学会推荐国际学术会议和期刊目录-2022.pdf
 
 ## Field's recommendation
 
@@ -33,9 +33,9 @@ CCF List
 | Cancer Research                             | 12.5 (2024)                                                  | cancerres.aacrjournals.org                                   | AACR (American Association for Cancer Research)              | Radiomics.io                                 |
 | Journal of Thoracic Oncology                | 21(2023)                                                     | https://www.jto.org/                                         | JTO / IASLC**Note: we have read access to this journal until the end of 2019** |                                              |
 | Archives of Pathology & Laboratory Medicine | 3.7 (2023)                                                   | https://www.archivesofpathology.org/loi/arpa                 | College of American Pathologists (CAP)                       | White papers on WSIs                         |
-| Diagnostic Pathology                        | 2.4 (2023) [InCites Report (PDF)](Academic/pdf/diagnostic-pathology-incites.pdf) | https://diagnosticpathology.biomedcentral.com/               | BMC                                                          | Cytomine                                     |
-| American Journal of Clinical Pathology      | 2.3(2023)[InCites Report (PDF)](Academic/pdf/American-Journal-of-Clinical-Pathology.pdf) | https://academic.oup.com/ajcp                                | Oxford                                                       |                                              |
-| Computerized Medical Imaging and Graphics   | 5.4 (2023)  [Report (PDF)](Academic/pdf/Computerized-medical.pdf)     | https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics | ELSEVIER                                                     | - Spacial issue on patch-based techniques    |
+| Diagnostic Pathology                        | 2.4 (2023) [InCites Report (PDF)](pdf/diagnostic-pathology-incites.pdf) | https://diagnosticpathology.biomedcentral.com/               | BMC                                                          | Cytomine                                     |
+| American Journal of Clinical Pathology      | 2.3(2023)[InCites Report (PDF)](pdf/American-Journal-of-Clinical-Pathology.pdf) | https://academic.oup.com/ajcp                                | Oxford                                                       |                                              |
+| Computerized Medical Imaging and Graphics   | 5.4 (2023)  [Report (PDF)](pdf/Computerized-medical.pdf)     | https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics | ELSEVIER                                                     | - Spacial issue on patch-based techniques    |
 | European Congress on Digital Pathology      | Conference                                                   |                                                              |                                                              |                                              |
 | ICIAR                                       | Conference                                                   |                                                              |                                                              |                                              |
 | MICCAI                                      | Conference                                                   |                                                              |                                                              |                                              |
