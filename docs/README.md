@@ -24,7 +24,7 @@
 
 > ## 🗃️Group Issue Management
 
-- [**financial reimbursement**](Group_Issue_Management/财务报销流程.md)
+- [**Financial Reimbursement**](Group_Issue_Management/财务报销流程.md)
 - [**Published Conferences & Journals Articles**](Group_Issue_Management/Published_Conferences_Journals_Articles.md)
 - [**List of Patents Granted**](Group_Issue_Management/实验室授权专利列表.md)
 - [**Beginner’s Guide**](Group_Issue_Management/新生指南.md)
