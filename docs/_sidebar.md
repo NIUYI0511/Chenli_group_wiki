@@ -6,10 +6,7 @@
   * [Paper Recommendation](Academic/paper_rec.md)
   * [Shared Datesets](Academic/共享数据集.md)
 * Group Issue Management
-  * Financial Reimbursement
-    * [Instructions for Submitting Papers](Group_Issue_Management/Instructions_for_Submitting_Papers.md)
-    * [Participation in International Conferences](Group_Issue_Management/Participation_in_International_Conferences.md)
-    * [Participation in National Meetings](Group_Issue_Management/Participation_in_National_Meetings.md)
+  * [Financial Reimbursement](Group_Issue_Management/财务报销流程.md)
   * [Published Conferences & Journals Articles](Group_Issue_Management/Published_Conferences_Journals_Articles.md)
   * [Beginner’s Guide](Group_Issue_Management/新生指南.md)
   * Tutorials
