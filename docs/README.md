@@ -24,10 +24,7 @@
 
 > ## 🗃️Group Issue Management
 
-- **financial reimbursement**
-    - [Instructions for Submitting Papers](Group_Issue_Management/Instructions_for_Submitting_Papers.md)
-    - [Participation in International Conferences](Group_Issue_Management/Participation_in_International_Conferences.md)
-    - [Participation in National Meetings](Group_Issue_Management/Participation_in_National_Meetings.md)
+- [**financial reimbursement**](Group_Issue_Management/财务报销流程.md)
 - [**Published Conferences & Journals Articles**](Group_Issue_Management/Published_Conferences_Journals_Articles.md)
 - [**List of Patents Granted**](Group_Issue_Management/实验室授权专利列表.md)
 - [**Beginner’s Guide**](Group_Issue_Management/新生指南.md)
