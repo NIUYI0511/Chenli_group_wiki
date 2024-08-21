@@ -2,9 +2,9 @@
 * Link to the Home Page
 * Academic
   * [List of Conferences & Journals](Academic/list_of_conf_jnl.md)
-  * [Quick Start](Academic/quick_start.md)
+  * [Quick Start](Academic/快速上手.md)
   * [Paper Recommendation](Academic/paper_rec.md)
-  * [Shared Datesets](Academic/shared_datasets.md)
+  * [Shared Datesets](Academic/共享数据集.md)
 * Group Issue Management
   * Financial Reimbursement
     * [Instructions for Submitting Papers](Group_Issue_Management/Instructions_for_Submitting_Papers.md)
