@@ -39,6 +39,6 @@
 > ## 📁Projects
 
 - [**Ningxia Huang Director's Project**](Projects/Ningxia_Huang_Director_Project.md)
-- [**Pathology Image Analysis Project**](Projects/Pathology_Image_Analysis_Project.md)
+- [**Pathology Image Analysis Project**](https://drive.google.com/file/d/1tbstO7-UiyGyd2Mp3OE4zFu1BpaEX_sn/view?usp=sharing)
 
 ---
