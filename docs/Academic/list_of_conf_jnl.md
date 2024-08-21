@@ -8,9 +8,9 @@
 
 CCF List
 
-- 2015: ([PDF](pdf/CCF推荐国际学术会议和期刊目录（下载）.pdf)): CCF推荐国际学术会议和期刊目录（下载）2015.pdf
-- 2019: ([PDF](pdf/中国计算机学会推荐国际学术会议和期刊目录-2019.pdf))中国计算机学会推荐国际学术会议和期刊目录-2019.pdf
-- 2022: ([PDF](pdf/中国计算机学会推荐国际学术会议和期刊目录-2022.pdf))中国计算机学会推荐国际学术会议和期刊目录-2022.pdf
+- 2015: ([PDF]([pdf/CCF推荐国际学术会议和期刊目录（下载）.pdf](https://github.com/NIUYI0511/Chenli_group_wiki/blob/main/docs/Academic/pdf/CCF%E6%8E%A8%E8%8D%90%E5%9B%BD%E9%99%85%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE%E5%92%8C%E6%9C%9F%E5%88%8A%E7%9B%AE%E5%BD%95%EF%BC%88%E4%B8%8B%E8%BD%BD%EF%BC%89.pdf))): CCF推荐国际学术会议和期刊目录（下载）2015.pdf
+- 2019: ([PDF]([pdf/中国计算机学会推荐国际学术会议和期刊目录-2019.pdf](https://github.com/NIUYI0511/Chenli_group_wiki/blob/main/docs/Academic/pdf/%E4%B8%AD%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E4%BC%9A%E6%8E%A8%E8%8D%90%E5%9B%BD%E9%99%85%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE%E5%92%8C%E6%9C%9F%E5%88%8A%E7%9B%AE%E5%BD%95-2019.pdf)))中国计算机学会推荐国际学术会议和期刊目录-2019.pdf
+- 2022: ([PDF]([pdf/中国计算机学会推荐国际学术会议和期刊目录-2022.pdf](https://github.com/NIUYI0511/Chenli_group_wiki/blob/main/docs/Academic/pdf/%E4%B8%AD%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E4%BC%9A%E6%8E%A8%E8%8D%90%E5%9B%BD%E9%99%85%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE%E5%92%8C%E6%9C%9F%E5%88%8A%E7%9B%AE%E5%BD%95-2019.pdf)))中国计算机学会推荐国际学术会议和期刊目录-2022.pdf
 
 ## Field's recommendation
 
