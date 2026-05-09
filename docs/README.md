@@ -1,42 +1,42 @@
-# Chen Li Group Wiki
+# 李辰课题组 Wiki
 
 ---
 
 ![image.png](pics/9cbc769e-4d99-480a-a8e6-cbee0e3d0bee.png)
 
-> ## 🏢Link to the home page
+> ## 🏢 主页链接
 
 - **Chen Li Group**
 
 
-[Chen Li Group at Xi'an Jiaotong University](https://chenli.group/)
+[西安交通大学 Chen Li Group](https://chenli.group/)
 
 ---
 
-> ## 🎓**Academic**
+> ## 🎓 学术资源
 
-- [**List of Conferences & Journals**](Academic/list_of_conf_jnl.md)
+- [**会议与期刊列表**](Academic/list_of_conf_jnl.md)
 - [**Quick Start**](Academic/快速上手.md)
-- [**Paper recommendation**](Academic/paper_rec.md)
-- [**Shared datasets**](Academic/共享数据集.md)
+- [**论文推荐**](Academic/论文推荐.md)
+- [**共享数据集**](Academic/共享数据集.md)
 
 ---
 
-> ## 🗃️Group Issue Management
+> ## 🗃️ 组内事务管理
 
-- [**Financial Reimbursement**](Group_Issue_Management/财务报销制度.md)
-- [**Published Conferences & Journals Articles**](Group_Issue_Management/Published_Conferences_Journals_Articles.md)
-- [**List of Patents Granted**](Group_Issue_Management/实验室授权专利列表.md)
-- [**Beginner’s Guide**](Group_Issue_Management/新生指南.md)
-- **Tutorials**
-    - [Equipment Registration](Group_Issue_Management/Equipment_Registration.md)
-    - [Server Usage](Group_Issue_Management/服务器管理.md)
-    - [Dental Hospital Server Remote Login](Group_Issue_Management/口腔医院服务器远程登陆.md)
-    - [Wiki Maintenance Tutorial](Group_Issue_Management/Wiki_Maintenance_Tutorial.md)
+- [**财务报销**](Group_Issue_Management/财务报销制度.md)
+
+- [**授权专利列表**](Group_Issue_Management/实验室授权专利列表.md)
+- [**新生指南**](Group_Issue_Management/新生指南.md)
+- **教程**
+    - [设备登记](Group_Issue_Management/Equipment_Registration.md)
+    - [服务器使用](Group_Issue_Management/服务器管理.md)
+    - [口腔医院服务器远程登录](Group_Issue_Management/口腔医院服务器远程登陆.md)
+    - [Wiki 维护教程](Group_Issue_Management/Wiki_Maintenance_Tutorial.md)
 
 ---
 
-> ## 📁Projects
+> ## 📁 项目
 
 - [**Ningxia Huang Director's Project**](Projects/Ningxia_Huang_Director_Project.md)
 - [**Pathology Image Analysis Project**](https://drive.google.com/file/d/1tbstO7-UiyGyd2Mp3OE4zFu1BpaEX_sn/view?usp=sharing)

@@ -1,1 +1,1 @@
-* List of Conferences and Journals
+* 会议与期刊列表
